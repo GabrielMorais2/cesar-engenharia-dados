@@ -1,7 +1,7 @@
 CREATE TABLE country (
-    id           BIGSERIAL PRIMARY KEY,
-    iso2         CHAR(2) NOT NULL UNIQUE,
-    name         VARCHAR(120) NOT NULL
+     id           BIGSERIAL PRIMARY KEY,
+     iso2         CHAR(2) NOT NULL UNIQUE,
+     name         VARCHAR(120) NOT NULL
 );
 
 CREATE TABLE university (

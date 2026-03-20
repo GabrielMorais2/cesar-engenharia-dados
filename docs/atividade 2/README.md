@@ -2,9 +2,9 @@
 
 ### Integrantes do Grupo
 
-- Leonardo José Oliveira Ibiapina
-- João Lucas Marcolino Cavalcanti Silva
-- Ênio Matheus Gomes Bazante
+- Gabriel Moraes da Silva
+- Cauã Otaviano Jordão
+- Victor Barbosa
 
 ## Objetivo
 
